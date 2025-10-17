@@ -1,2 +1,2 @@
 # super_trunfo.c
-Projetro da Faculdade
+Projeto da Faculdade
